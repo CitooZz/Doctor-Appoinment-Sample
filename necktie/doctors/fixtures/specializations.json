@@ -1,0 +1,23 @@
+[
+  {
+    "model": "doctors.specialization",
+    "pk": 1,
+    "fields": {
+      "name": "Dermatology"
+    }
+  },
+  {
+    "model": "doctors.specialization",
+    "pk": 2,
+    "fields": {
+      "name": "Neurology"
+    }
+  },
+  {
+    "model": "doctors.specialization",
+    "pk": 3,
+    "fields": {
+      "name": "Pathology"
+    }
+  }
+]

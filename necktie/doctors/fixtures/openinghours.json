@@ -1,0 +1,52 @@
+[
+  {
+    "model": "doctors.openinghour",
+    "pk": 1,
+    "fields": {
+      "doctor": 1,
+      "weekday": "Sunday",
+      "start_hour": "14:00",
+      "end_hour": "16:00"
+    }
+  },
+  {
+    "model": "doctors.openinghour",
+    "pk": 2,
+    "fields": {
+      "doctor": 2,
+      "weekday": "Monday",
+      "start_hour": "08:00",
+      "end_hour": "16:00"
+    }
+  },
+  {
+    "model": "doctors.openinghour",
+    "pk": 3,
+    "fields": {
+      "doctor": 3,
+      "weekday": "Tuesday",
+      "start_hour": "09:00",
+      "end_hour": "10:00"
+    }
+  },
+  {
+    "model": "doctors.openinghour",
+    "pk": 4,
+    "fields": {
+      "doctor": 4,
+      "weekday": "Wednesday",
+      "start_hour": "11:00",
+      "end_hour": "14:00"
+    }
+  },
+  {
+    "model": "doctors.openinghour",
+    "pk": 5,
+    "fields": {
+      "doctor": 4,
+      "weekday": "Friday",
+      "start_hour": "13:00",
+      "end_hour": "15:00"
+    }
+  }
+]

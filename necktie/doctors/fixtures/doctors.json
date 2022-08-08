@@ -1,0 +1,67 @@
+[
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "name": "John Doe",
+      "specialization": 1,
+      "price": 200,
+      "is_price_inclusive": true,
+      "district": 1,
+      "address": "Townhall tower 10",
+      "language": 1
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 2,
+    "fields": {
+      "name": "Jane Doe",
+      "specialization": 2,
+      "price": 400,
+      "is_price_inclusive": false,
+      "district": 2,
+      "address": "Mega kuningan 10",
+      "language": 2
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 3,
+    "fields": {
+      "name": "Christiano Ronaldo",
+      "specialization": 1,
+      "price": 500,
+      "is_price_inclusive": true,
+      "district": 3,
+      "address": "BSD City number 12",
+      "language": 1
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 4,
+    "fields": {
+      "name": "Lionel Messi",
+      "specialization": 1,
+      "price": 1000,
+      "is_price_inclusive": true,
+      "district": 1,
+      "address": "Paragon City 15",
+      "language": 1
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 5,
+    "fields": {
+      "name": "Robie Fowler",
+      "specialization": 1,
+      "price": 1000,
+      "is_price_inclusive": true,
+      "district": 1,
+      "address": "Menteng Raya 12",
+      "language": 1
+    }
+  }
+]

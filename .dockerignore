@@ -1,0 +1,7 @@
+venv/
+tests/
+.idea/
+__pycache__/
+staticfiles/
+.git/
+*.sqlite3

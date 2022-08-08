@@ -1,0 +1,23 @@
+[
+  {
+    "model": "doctors.district",
+    "pk": 1,
+    "fields": {
+      "name": "Kwai Tsing"
+    }
+  },
+  {
+    "model": "doctors.district",
+    "pk": 2,
+    "fields": {
+      "name": "Sai Kung"
+    }
+  },
+  {
+    "model": "doctors.district",
+    "pk": 3,
+    "fields": {
+      "name": "Sha Tin"
+    }
+  }
+]
